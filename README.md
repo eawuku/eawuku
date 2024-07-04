@@ -3,7 +3,7 @@
 
 
   - [Active Directory Home Lab](https://github.com/eawuku/ActiveDirectoryLab)
-
+  - [Azure Sentinel](https://github.com/eawuku/ActiveDirectoryLab)
 
 <h2> 🗒️Certifications:</h2>
 
