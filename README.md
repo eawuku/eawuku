@@ -4,6 +4,7 @@
 
   - [Active Directory Home Lab](https://github.com/eawuku/ActiveDirectoryLab)
   - [Azure Sentinel](https://github.com/eawuku/HoneypotLab)
+  - Vulnerability Scan
 
 <h2> 🗒️Certifications:</h2>
 
