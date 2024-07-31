@@ -8,10 +8,10 @@
 
 <h2> 🗒️Certifications:</h2>
 
-- Network Technician
+- PC Repair and Network Technician
 - CompTIA Security+ (In Progress)
+- Google IT Support
   
-
 <h2> 🤳 Connect with me:</h2>
 
 <img align="left" alt="eawuku | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>[linkedin]
