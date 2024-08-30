@@ -5,6 +5,7 @@
   - [Active Directory Home Lab](https://github.com/eawuku/ActiveDirectoryLab)
   - [Azure Sentinel](https://github.com/eawuku/HoneypotLab)
   - [Vulnerability Scan](https://github.com/eawuku/Vulnerability-Scan)
+  - [Managing File Permissions Using Linux Commands](https://github.com/eawuku/Managing-File-Permissions-Using-Linux-Commands-)
 
 <h2> 🗒️Certifications:</h2>
 
