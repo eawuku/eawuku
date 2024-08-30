@@ -9,9 +9,11 @@
 
 <h2> 🗒️Certifications:</h2>
 
-- PC Repair and Network Technician
-- CompTIA Security+ (In Progress)
+- CompTIA Security+
+- Google Cybersecurity
 - Google IT Support
+- PC Repair and Network Technician
+
   
 <h2> 🤳 Connect with me:</h2>
 
